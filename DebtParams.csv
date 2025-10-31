@@ -1,0 +1,7 @@
+﻿tranche_name,currency,principal_amount,maturity,amortization,OID,index,spread,fixed_rate,commitment
+firstlienUSD,USD,5350,7,5.00%,94,SOFR,500,0.00%,0
+firstlienEUR,EUR,500,7,5.00%,95,EURIBOR,450,0.00%,0
+seniorsecurednotes,USD,2500,7.5,0.00%,100,Fixed,0,6.50%,0
+secondlien,USD,2150,8,0.00%,93,SOFR,650,0.00%,0
+revolver,USD,650,7,0.00%,100,SOFR,400,0.00%,650
+unsecured,USD,2000,8,0.00%,100,Fixed,0,8.00%,0
